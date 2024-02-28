@@ -2,6 +2,9 @@
 The Secure Fruit Service is web application developed in Java, leveraging the Spring Security framework to ensure a secure and authenticated experience for users. 
 The project is designed to manage user authentication, authorization, and fruit-related operations through a set of well-defined RESTful API endpoints.
 
+Webbapplication -> https://github.com/xvickyx96/menyforapplication
+
+
 Project implementation of security using Spring Boot 3.0 and JSON Web Tokens (JWT). It includes the following features:
 
 ## Features
